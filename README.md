@@ -17,6 +17,7 @@ Key Input Challenge は、制限時間内に表示されるキー配列をどれ
 ```bash
 pip install -r requirements.txt
 python src/main.py
+```
 
 ## スクリーンショット
 
