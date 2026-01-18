@@ -17,3 +17,20 @@ Key Input Challenge は、制限時間内に表示されるキー配列をどれ
 ```bash
 pip install -r requirements.txt
 python src/main.py
+
+## スクリーンショット
+
+### メニュー画面
+![メニュー画面](images/menu.png)
+
+### キロク画面
+![キロク画面](images/record.png)
+
+### ゲームモード画面
+![ゲームモード画面](images/gamemode.png)
+
+### ゲームプレイ画面
+![ゲームプレイ画面](images/game.png)
+
+### リザルト画面
+![リザルト画面](images/result.png)
